@@ -207,3 +207,9 @@ In Services repo, run:
 ### Confirm API Access
 
 Now that it's all deployed, using the instructions in the [Auth](auth.md) section of the docs, make queries to the Services API and confirm it is working as expected
+
+
+Figma Mockups:
+* [Certification / Credential Management Use-Case - Reusable Figma Design Files](https://www.figma.com/community/file/1618261630880477844)
+* [Onboarding Use-Case - Reusable Figma Design Files](https://www.figma.com/community/file/1618265223330357967)
+* [System Admin Use-Case - Reusable Figma Design Files](https://www.figma.com/community/file/1618279005263109055)
